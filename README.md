@@ -10,7 +10,7 @@ This is a repository with python code for the paper "KeyTitle: Towards Better Bu
 
 ## To train models
 1. Modify the config.py file to suit your running environment. (path of pre-trained models, path of datasets, epoches, learning rate, batch size...)
-2. You may need to use the python scripts in preprocess folder to create the suitable data files in csv.
+2. You may need to use the python scripts in preprocess directory to create the suitable data files in csv.
 3. Run the train_keywords.py file to train the model. Wait for the training process to finish.
 
 ## To evaluate the performance
